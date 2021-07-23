@@ -1,0 +1,18 @@
+table {
+    width: 80%;
+}
+table, th ,td {
+    border: 2px solid #524F4A ;
+    border-collapse: collapse;
+    padding: 5px;
+}
+th {
+    background-color: aquamarine;
+}
+td {
+    text-align: center;
+    background-color: linen;
+}
+td, tr {
+    height: 50px;
+}
